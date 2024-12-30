@@ -1,0 +1,2 @@
+# mintad
+repo= repository
