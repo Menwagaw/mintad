@@ -1,2 +1,2 @@
-# Clone repository 'mintad' to local machine
+#mintadam
 repo= repository
